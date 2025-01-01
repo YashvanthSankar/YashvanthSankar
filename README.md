@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YashvanthSankar
-- 👀 I’m interested in Web Development, Blockchain Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m open to collaborate on LinkedIn, Github and Instagram
 - 📫 How to reach me : https://www.instagram.com/yashvanth191206/
 
