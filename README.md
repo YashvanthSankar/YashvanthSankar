@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashvanthSankar
 - 🌱 I’m currently learning DSA and Web Development
-- 💞️ I’m open to collaborate on LinkedIn, Github and Instagram
+- 💞️ I’m open to collaborate on GitHub
 - 📫 How to reach me : https://www.instagram.com/yashvanth191206/
 
 <!---
