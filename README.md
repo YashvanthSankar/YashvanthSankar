@@ -2,15 +2,11 @@
 
 🎓 I'm a Computer Science & Engineering Dual Degree student at IIITDM Kancheepuram, passionate about full-stack development, problem-solving, and building real-world applications.
 
----
-
 ## 🚀 About Me
 
 - 🌱 Currently learning: React.js, Next.js, Tailwind CSS, Node.js, MongoDB   
 - 💡 Interests: Web Dev • ML • UI/UX Design
 - 📚 Achievements: [200+ LeetCode problems solved]
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,15 +26,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🔥 Projects
-
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🎬 Movie App | Fetches data from TMDB and displays movie info | React, API, Tailwind | 🛠️ |
-
----
 <!---
 YashvanthSankar/YashvanthSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
