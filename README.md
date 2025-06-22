@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: React.js, Next.js, Tailwind CSS, Node.js, MongoDB   
+- 🌱 Currently learning: React.js, Tailwind CSS, Node.js, MongoDB   
 - 💡 Interests: Web Dev • ML • UI/UX Design
 - 📚 Achievements: [200+ LeetCode problems solved]
 
