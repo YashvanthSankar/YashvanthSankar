@@ -29,11 +29,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-##GitHub Stats
+## GitHub Stats
 
 ![Yashvanth Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=github_dark)
 
-##Top Languages
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=github_dark)
 
