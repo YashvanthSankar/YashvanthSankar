@@ -37,6 +37,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=github_dark)
 
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YashvanthSankar&theme=dark&hide_border=true)
+
+## Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=YashvanthSankar&theme=darkhub)
+
+
 <!---
 YashvanthSankar/YashvanthSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
