@@ -31,11 +31,11 @@
 
 ##GitHub Stats
 
-![Yashvanth Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![Yashvanth Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=github_dark)
 
 ##Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=github_dark)
 
 <!---
 YashvanthSankar/YashvanthSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
