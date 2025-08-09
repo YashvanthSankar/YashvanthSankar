@@ -6,7 +6,6 @@
 
 - 🌱 Currently learning: React.js, Tailwind CSS, Node.js, MongoDB   
 - 💡 Interests: Web Dev • ML • UI/UX Design
-- 📚 Achievements: [200+ LeetCode problems solved]
 
 ## 🛠️ Tech Stack
 
