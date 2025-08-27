@@ -40,6 +40,8 @@
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YashvanthSankar&theme=dark&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=YashvanthSankar)
 <!---
 ## Trophy
 
