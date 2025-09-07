@@ -1,13 +1,13 @@
-# 👋 Hi there, I'm Yashvanth S!
+# Hi there 👋, I'm Yashvanth S!
 
 🎓 I'm a Computer Science & Engineering Dual Degree student at IIITDM Kancheepuram, passionate about full-stack development, problem-solving, and building real-world applications.
 
-## 🚀 About Me
+## About Me
 
 - 🌱 Currently learning: React.js, Tailwind CSS, Node.js, MongoDB   
 - 💡 Interests: Web Dev • ML • UI/UX Design
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
