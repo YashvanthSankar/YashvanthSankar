@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Yashvanth S!
 
-🎓 I'm a Computer Science & Engineering Dual Degree student at IIITDM Kancheepuram, passionate about full-stack development, problem-solving, and building real-world applications.
+I'm a Computer Science & Engineering Dual Degree student at IIITDM Kancheepuram, passionate about full-stack development, problem-solving, and building real-world applications.
 
 ## About Me
 
-- 🌱 Currently learning: React.js, Tailwind CSS, Node.js, MongoDB   
-- 💡 Interests: Web Dev • ML • UI/UX Design
+I'm a developer with a passion for backend systems and machine learning. I enjoy building the server-side logic that powers applications and exploring how data can create intelligent solutions.
 
 ## Tech Stack
 
