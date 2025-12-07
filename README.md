@@ -70,24 +70,12 @@ I'm a Computer Science & Engineering (Dual Degree) student at IIITDM Kancheepura
 
 ---
 
-### 📊 My GitHub Activity
+### My GitHub Activity
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=tokyonight" alt="Yashvanth Sankar's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=YashvanthSankar&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+![GitHub Streak](https://streak-stats.demolab.com/?user=YashvanthSankar&theme=graywhite)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashvanthSankar" alt="Profile views" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zapds&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashvanthSankar)
