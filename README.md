@@ -75,7 +75,7 @@ I'm a Computer Science & Engineering (Dual Degree) student at IIITDM Kancheepura
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=tokyonight" alt="Yashvanth Sankar's GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=tokyonight" alt="Top Languages" />
