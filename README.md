@@ -33,7 +33,7 @@ I'm a Computer Science & Engineering (Dual Degree) student at IIITDM Kancheepura
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YashvanthSankar&theme=graywhite)
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=YashvanthSankar&theme=crt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=tokyonight)
 
