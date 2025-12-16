@@ -15,7 +15,7 @@ I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer a
 
 ### Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/yashvanths" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -37,4 +37,6 @@ I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=graywhite)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashvanthSankar)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashvanthSankar" alt="Profile Views" />
+</div>
