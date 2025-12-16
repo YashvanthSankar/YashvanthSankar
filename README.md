@@ -35,6 +35,6 @@ I'm a Computer Science & Engineering (Dual Degree) student at IIITDM Kancheepura
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashvanthSankar&show_icons=true&theme=graywhite&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=graywhite)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YashvanthSankar)
