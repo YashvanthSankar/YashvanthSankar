@@ -34,6 +34,7 @@ I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer a
 ---
 
 ### My GitHub Activity
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YashvanthSankar&theme=graywhite)
 
@@ -41,3 +42,4 @@ I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvanthSankar&layout=compact&theme=graywhite)
 
+</div>
