@@ -1,6 +1,6 @@
 # Hi there, I'm Yashvanth S! 👋
 
-I'm a Computer Science & Engineering (Dual Degree) student at IIITDM Kancheepuram. As a passionate Full-Stack Developer, I enjoy building complete, user-centric applications using the MERN stack. While I have experience across the full stack, my core passion lies in backend development and machine learning, where I enjoy the challenge of architecting robust server-side logic and using data to create intelligent solutions.
+I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer and open-source enthusiast, I love using my skills to solve problems and create efficient solutions. Always eager to learn and explore new technologies, I enjoy collaborating on creative projects and sharing knowledge with the developer community. Let's connect and make something awesome together!
 
 ---
 
