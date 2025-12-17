@@ -1,6 +1,6 @@
 # Hi there, I'm Yashvanth S! 👋
 
-I'm a CSE undergrad at IIITDM Kancheepuram. As a passionate software developer and open-source enthusiast, I love using my skills to solve problems and create efficient solutions. Always eager to learn and explore new technologies, I enjoy collaborating on creative projects and sharing knowledge with the developer community. Let's connect and make something awesome together!
+I'm a CSE undergrad at IIITDM Kancheepuram. As an aspiring software developer and open-source enthusiast, I love using my skills to solve problems and create efficient solutions. Always eager to learn and explore new technologies, I enjoy collaborating on creative projects and sharing knowledge with the developer community. Let's connect and make something awesome together!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YashvanthSankar&style=for-the-badge" alt="Profile Views" />
