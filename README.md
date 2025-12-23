@@ -2,7 +2,9 @@
 
 I'm a CSE undergrad at IIITDM Kancheepuram. As an aspiring software developer and open-source enthusiast, I love using my skills to solve problems and create efficient solutions. Always eager to learn and explore new technologies, I enjoy collaborating on creative projects and sharing knowledge with the developer community. Let's connect and make something awesome together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yashvanth.dev-blue?style=for-the-badge)](https://yashvanth.dev)
+<div align="center">
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yashvanth.dev-blue?style=for-the-badge)](https://yashvanth.dev)
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YashvanthSankar&style=for-the-badge&color=red" alt="Profile Views" />
