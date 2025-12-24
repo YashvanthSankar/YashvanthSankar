@@ -4,7 +4,7 @@ I'm a CSE undergrad at IIITDM Kancheepuram. As an aspiring software developer an
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yashvanth.dev-blue?style=for-the-badge)](https://yashvanth.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yashvanth.com-blue?style=for-the-badge)](https://yashvanth.com)
   
 </div>
 
