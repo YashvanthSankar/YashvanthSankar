@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Crafting+clean%2C+efficient+code;Turning+ideas+into+reality;Always+learning%2C+always+growing)](https://yashvanth.com)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yashvanth.com-6366F1?style=for-the-badge&labelColor=1e1e2e)](https://yashvanth.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_CV-10B981?style=for-the-badge&labelColor=1e1e2e)](https://yashvanth.com)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-yashvanth.com-6366F1?style=for-the-badge&labelColor=1e1e2e)](https://yashvanth.com)
+[![Resume](https://img.shields.io/badge/_Resume-View_CV-10B981?style=for-the-badge&labelColor=1e1e2e)](https://yashvanth.com/YashvanthS_Resume.pdf)
 
 <br/>
 
