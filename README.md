@@ -24,8 +24,7 @@
 I'm a passionate full-stack developer who loves building scalable web applications and contributing to open source. I thrive on turning complex problems into elegant, user-friendly solutions.
 
 - Currently building **production-ready full-stack applications**
-- Exploring **system design** & **cloud architecture**
-- Interested in **Web Dev**, **Database Optimization**, and **DevOps**
+- Exploring **AI agents** & **cloud architecture**
 - Open to **collaborations** and **interesting opportunities**
 
 ---
