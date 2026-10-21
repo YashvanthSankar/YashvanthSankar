@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Yashvanth S — full-stack and AI engineer">
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="60" y="150" font-size="64" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Yashvanth S</text>
+    <text x="63" y="196" font-size="22" fill="#9198a1">Full-stack and AI engineer. Chennai, India.</text>
+    <text x="63" y="232" font-size="16" fill="#9198a1">I like the problems where AI has to work reliably, not impressively.</text>
+  </g>
+  <!-- a monitor that behaves like a window -->
+  <g fill="none" stroke="#f0f6fc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(800,50)">
+    <rect x="0" y="0" width="340" height="200" rx="6"/>
+    <circle cx="170" cy="12" r="3" fill="#f0f6fc" stroke="none"/>
+    <!-- the view through it -->
+    <clipPath id="w"><rect x="2" y="2" width="336" height="196"/></clipPath>
+    <g clip-path="url(#w)">
+      <circle cx="235" cy="92" r="30"/>
+      <path d="M0 118 H340"/>
+      <path d="M0 150 Q30 142 60 150 T120 150 T180 150 T240 150 T300 150 T360 150"/>
+      <path d="M0 172 Q30 164 60 172 T120 172 T180 172 T240 172 T300 172 T360 172" stroke="#9198a1"/>
+      <path d="M38 56 q10 -8 20 0" stroke="#9198a1"/>
+      <path d="M68 44 q10 -8 20 0" stroke="#9198a1"/>
+      <path d="M120 100 l14 -34 l14 34 z" fill="#f0f6fc" stroke="none"/>
+    </g>
+    <path d="M150 200 v34 h40 v-34"/>
+    <path d="M110 236 h120"/>
+  </g>
+</svg>

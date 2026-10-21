@@ -1,31 +1,14 @@
-## Yashvanth S
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Yashvanth S — full-stack and AI engineer, Chennai" src="assets/banner-light.svg" width="100%">
+</picture>
 
-```
-$ whoami
-full-stack & ai engineer · chennai, india
-cs @ iiitdm kancheepuram, 2024–2029 · highest cgpa in cohort · open to work
+[yashvanth.com](https://yashvanth.com) · [résumé](https://yashvanth.com/YashvanthS_Resume.pdf) · [linkedin](https://linkedin.com/in/yashvanths) · [yashvanthsankar@gmail.com](mailto:yashvanthsankar@gmail.com)
 
-$ ls ~/work
-choco.video/      long videos in, captioned clips out, on-device        rust · tauri · svelte
-doppler/          a monitor that behaves like a window · random walk    three.js · mediapipe
-gudtour/          disaster alerts for tourists · 2nd, cs week '26       expo · convex
-superfinz/        income firewall for gig workers · 1st, technovit '26  next.js · expo
-sagar-prahari/    govt. of india coastal campaign app · play store      expo · convex
+**[choco.video](https://github.com/YashvanthSankar/choco.video)** — long videos in, captioned clips out, entirely on your Mac. Open source.<br>
+**[Project Doppler](https://doppel-rw.vercel.app)** — a monitor that behaves like a window. Built at Random Walk.<br>
+**[GudTour](https://github.com/YashvanthSankar/bits-n-bytes)** — disaster alerts for tourists in India. 2nd place, CS Week 2026.<br>
+**[SuperFinz](https://github.com/YashvanthSankar/superfinz-gig)** — an income firewall for gig workers. 1st place, Innovation Unbound 2026.<br>
+**[Sagar Prahari](https://play.google.com/store/apps/details?id=com.swachhsagar.release)** — Govt. of India's coastal-campaign app, on the Play Store.
 
-$ git log --oneline ~/career
-2026-06  ai intern             random walk
-2026-02  founding engineer     promptli
-2026-01  swe intern            artly creative labs
-2026-01  lead developer        e-summit '26, iiitdm
-
-$ cat ~/.stack
-typescript  python  rust  swift
-next.js  react native  tauri  convex  fastapi  postgres  redis
-docker  aws  vercel  cloudflare  modal
-
-$ open yashvanth.com
-```
-
-[choco.video](https://github.com/YashvanthSankar/choco.video) · [doppler](https://doppel-rw.vercel.app) · [gudtour](https://github.com/YashvanthSankar/bits-n-bytes) · [superfinz](https://github.com/YashvanthSankar/superfinz-gig) · [sagar prahari](https://play.google.com/store/apps/details?id=com.swachhsagar.release)
-
-[yashvanth.com](https://yashvanth.com) · [résumé](https://yashvanth.com/YashvanthS_Resume.pdf) · [linkedin](https://linkedin.com/in/yashvanths) · [leetcode](https://leetcode.com/u/yashvanths/) · [yashvanthsankar@gmail.com](mailto:yashvanthsankar@gmail.com)
+Previously founding engineer at [Promptli](https://promptli.com). CS at IIITDM Kancheepuram. Open to work.
