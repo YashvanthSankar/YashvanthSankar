@@ -37,7 +37,7 @@ Highest CGPA in the cohort.
 
 ### Tools
 
-**Languages** TypeScript, Python, Rust, Swift, SQL, C++
-**Building with** Next.js, React Native, Tauri, Convex, FastAPI, PostgreSQL, Redis
-**AI** LiveKit Agents, OpenAI Realtime, whisper.cpp, RAG, structured LLM output
+**Languages** TypeScript, Python, Rust, Swift, SQL, C++<br>
+**Building with** Next.js, React Native, Tauri, Convex, FastAPI, PostgreSQL, Redis<br>
+**AI** LiveKit Agents, OpenAI Realtime, whisper.cpp, RAG, structured LLM output<br>
 **Shipping on** Docker, AWS, Vercel, Cloudflare, Modal
