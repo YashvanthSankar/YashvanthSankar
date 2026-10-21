@@ -1,8 +1,7 @@
 ## Yashvanth S
 
-Full-stack and AI engineer in Chennai. I build products end to end, from the
-Rust engine or the Convex schema to the app in your hand, and I like the
-problems where AI has to work reliably rather than impressively.
+Full-stack and AI engineer in Chennai. I build products end to end, and I
+like the problems where AI has to work reliably rather than impressively.
 
 Computer science at IIITDM Kancheepuram, integrated B.Tech + M.Tech, 2024–2029.
 Highest CGPA in the cohort.
